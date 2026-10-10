@@ -1,5 +1,6 @@
 # project_infus_blkpp_diy
 
-- microcontroller ESP32
-- sensor load cell
-- setting menggunakan WifiManager
+- menggunakan microcontroller ESP32
+- menggunakan sensor load cell
+- melakukan setting menggunakan WifiManager
+- komunikasi menggunakan Wifi dan protokol MQTT
